@@ -1,0 +1,2 @@
+module EmployeeDailyWageUC2 {
+}
